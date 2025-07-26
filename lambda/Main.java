@@ -1,5 +1,7 @@
 package lambda;
 
+import src.AbstractClass;
+
 public class Main {
     public static void main(String ar[]){
         /*Example example = new Example();
@@ -12,4 +14,7 @@ public class Main {
     static void  testThing(Book lambdaBook){
         lambdaBook.test("Hello lambda!");
     }
+
+
+
 }
